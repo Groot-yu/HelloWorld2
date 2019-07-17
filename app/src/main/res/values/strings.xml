@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="title_activity_relative_layout">RelativeLayoutActivity</string>
+    <string name="title_activity_text_view">TextViewActivity</string>
+</resources>
